@@ -1,4 +1,6 @@
 ## Los Angeles-crime-Projects
+[LA Crime Projects Notebook](https://github.com/imVetrii/la-crime-Projects/blob/main/LA%20Crime%20Projects.ipynb)
+
 
 ## 📌 Overview
 This project analyzes crime data from Los Angeles, aiming to uncover meaningful patterns and insights related to crime types, timing, and locations. The dataset was cleaned, transformed, and visualized using Python, Pandas, and Matplotlib in a Jupyter Notebook environment.
