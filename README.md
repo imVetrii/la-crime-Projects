@@ -1,5 +1,5 @@
 ## Los Angeles-crime-Projects
-[LA Crime Projects Notebook](https://github.com/imVetrii/la-crime-Projects/blob/main/LA%20Crime%20Projects.ipynb)
+[LA Crime Projects Notebook](Python%2C%20Pandas%2C%20Matplotlib%2C%20Jupyter%20Notebook%2C)
 
  Optional: View in NBViewer (for better rendering)
   If GitHub can't preview it, use this: [View on NBViewer](https://nbviewer.org/github/imVetrii/la-crime-Projects/blob/main/LA%20Crime%20Projects.ipynb)
